@@ -1,0 +1,3 @@
+rootProject.name = 'RNUiControls'
+
+include ':app'
